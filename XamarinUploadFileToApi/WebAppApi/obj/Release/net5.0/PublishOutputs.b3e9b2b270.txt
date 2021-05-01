@@ -1,0 +1,12 @@
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\WebAppApi.exe
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\wwwroot\Images\70e8e202-3195-430e-bfee-6390d06101f4.jpg
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\WebAppApi.dll
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\WebAppApi.deps.json
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\WebAppApi.runtimeconfig.json
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\WebAppApi.pdb
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\XamarinUploadFileToApi\WebAppApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

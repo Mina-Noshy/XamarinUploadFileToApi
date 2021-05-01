@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.EmployeeDetails">
+
+    <ScrollView>
+        <StackLayout Padding="10">
+            <Image x:Name="img"
+                   WidthRequest="300"
+                   HeightRequest="200"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   Margin="20"
+                   BackgroundColor="Gray"
+                   Aspect="AspectFill"/>
+
+            <Entry x:Name="txtId" Placeholder="id" Keyboard="Numeric"/>
+            <Entry x:Name="txtName" Placeholder="name"/>
+            <Entry x:Name="txtPhone" Placeholder="phone"/>
+            <Entry x:Name="txtImage" Placeholder="image" IsReadOnly="True"/>
+
+            <StackLayout>
+                <Button x:Name="btnGet" Text="Go Back" Clicked="btnGet_Clicked"/>
+            </StackLayout>
+
+
+        </StackLayout>
+    </ScrollView>
+    
+
+</ContentPage>
